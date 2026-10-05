@@ -1,7 +1,7 @@
 {
   "name": "Echo Loop+ Desktop",
   "short_name": "Echo Loop+ Desk",
-  "description": "Echo Loop+ for wide screens: a zoomable waveform you can follow, select and loop, sections with a locked length you can move along the recording, play counts and flags. Works offline.",
+  "description": "Echo Loop+ for wide screens: an exact sound engine, a zoomable waveform with a magic wand, seamless loops, flags, shuffle sets, crop and cut. Works offline.",
   "id": "./",
   "start_url": "./",
   "scope": "./",

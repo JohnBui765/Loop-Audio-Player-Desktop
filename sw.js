@@ -2,8 +2,8 @@
 // Your recordings, play counts and flags live in the browser's database, not here.
 // Bump the version whenever you upload changed files, so computers pick them up.
 // The "eld-" prefix keeps this cache apart from Echo Loop+ ("elp-") and Echo Loop ("echo-loop-") on the same site.
-const CACHE = 'eld-v1';
-const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
+const CACHE = 'eld-v4';
+const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png', './lame.js'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
