@@ -2,7 +2,7 @@
   "name": "Echo Loop+ Desktop",
   "short_name": "Echo Loop+ Desk",
   "description": "Echo Loop+ for wide screens: an exact sound engine, a zoomable waveform with a magic wand, seamless loops, flags, shuffle sets, crop and cut. Works offline.",
-  "id": "./",
+  "id": "/echo-loop-desktop/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
